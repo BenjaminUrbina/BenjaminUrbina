@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Benjamin 🦦
 
-<!--
-**BenjaminUrbina/BenjaminUrbina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Me gusta desarrollar e implementar soluciones a problemas reales  
+📚 Disfruto aprender lenguajes y tecnologías nuevas  
+🚀 Siempre buscando mejorar y crecer como desarrollador
 
-Here are some ideas to get you started:
+### 🔧 Tecnologías
+- Python
+- Java
+- React + tyscript
+- Boostrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🦦 Fun facts
+- Me gusta jugar MTG 🧌
+- Juegos de computador
+- Fan de Avatar: la leyenda de Aang
+- Animales y avez chilenas
+- Me gusta Obsidian
