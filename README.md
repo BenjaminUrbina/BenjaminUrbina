@@ -12,7 +12,7 @@
 
 ### 🦦 Fun facts
 - Me gusta jugar MTG 🧌
-- Juegos de computador
+- Jueguitos de computador
 - Fan de Avatar: la leyenda de Aang
-- Animales y avez chilenas
+- Animales y aves chilenas
 - Me gusta Obsidian
