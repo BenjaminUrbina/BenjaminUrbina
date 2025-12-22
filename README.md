@@ -1,4 +1,4 @@
-# Hola, soy Benjamin 🦦
+# Hola, soy Benjamín 🦦
 
 💡 Me gusta desarrollar e implementar soluciones a problemas reales  
 📚 Disfruto aprender lenguajes y tecnologías nuevas  
