@@ -14,7 +14,3 @@
 
 ### 🦦 Fun facts
 - Me gusta jugar MTG 🧌
-- Jueguitos de computador.
-- Fan de Avatar: la leyenda de Aang.
-- Animales y aves chilenas.
-- Me gusta Obsidian.
