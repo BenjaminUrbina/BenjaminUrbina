@@ -11,6 +11,6 @@
 - Java
 - React + tyscript
 - Boostrap
-
+- Django
 ### 🦦 Fun facts
 - Me gusta jugar MTG 🧌
